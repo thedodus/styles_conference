@@ -225,6 +225,14 @@ p a {
     color: #a9b2b9;
 }
 
+.teaser img {
+    display: block;
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 22px;
+
+}
+
 /* Primary Header  */
 
 .logo {
